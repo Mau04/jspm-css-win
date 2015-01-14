@@ -1,0 +1,21 @@
+logs
+*.log
+
+pids
+*.pid
+*.seed
+
+lib-cov
+coverage
+
+.grunt
+
+build/Release
+node_modules
+jspm_packages
+
+# Environment variables
+.env
+
+# bower
+public/components
